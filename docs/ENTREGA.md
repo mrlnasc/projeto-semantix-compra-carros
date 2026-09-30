@@ -14,19 +14,24 @@ O conteúdo desta entrega corresponde ao repositório público [mrlnasc/projeto-
 
 ## Imagens para anexar (até 10)
 
-As cinco imagens em `entrega_imagens/` já mostram os dados, a comparação, os erros, a validação e o resumo. Após publicar, complementar com:
+A pasta `entrega_imagens/` contém exatamente dez imagens prontas para anexar:
 
-1. Print real da página do repositório, com nome, URL e estrutura de arquivos visíveis.
-2. Print real do README mostrando o problema, o resumo e a fonte.
-3. Print real da documentação com o tópico Coleta de dados.
-4. Print real da documentação com o tópico Modelagem e a comparação.
-5. Print real da documentação com o tópico Conclusões e suas limitações.
+1. `01_eda.png`: distribuição de classes e taxa de compra por faixa de idade.
+2. `02_comparacao.png`: precisão, recall e F1 dos modelos.
+3. `03_erros.png`: matrizes de confusão e leitura dos erros.
+4. `04_validacao.png`: validação cruzada no treino.
+5. `05_resumo.png`: principais resultados e interpretação de negócio.
+6. `06_repositorio.jpg`: print real do repositório público e sua estrutura.
+7. `07_readme.jpg`: print real da apresentação e resumo no README.
+8. `08_coleta_de_dados.jpg`: print real do problema, fonte e licença na documentação.
+9. `09_modelagem.jpg`: print real da avaliação e comparação dos modelos.
+10. `10_conclusoes.jpg`: print real das conclusões e limitações.
 
-As cinco figuras e os cinco prints totalizam dez imagens. Caso prefira menos anexos, o resumo e os prints do repositório e documentação podem ser acompanhados somente pelas figuras mais relevantes. As figuras geradas são visualizações dos resultados, não capturas simuladas de uma publicação no GitHub.
+Os cinco prints foram capturados no GitHub após a publicação; as cinco figuras são visualizações reproduzíveis dos resultados agregados. O pacote separado `Imagens_Entrega_Semantix.zip` reúne somente essas dez imagens. Extraia o ZIP antes de anexar, pois a plataforma solicita arquivos de imagem.
 
 ## Submissão na plataforma
 
-Depois de confirmar que o repositório está público e suas imagens aparecem no README, anexar as imagens na aba de tarefa do módulo 41. Informar o link do repositório no campo de comentário, se disponível. A submissão na plataforma não foi realizada nesta preparação.
+O repositório público e o carregamento das figuras no README foram verificados. Anexar as dez imagens na aba de tarefa do módulo 41. Informar o link do repositório no campo de comentário, se disponível. A submissão na plataforma ainda depende do autor.
 
 ## Escopo autorizado de publicação
 
