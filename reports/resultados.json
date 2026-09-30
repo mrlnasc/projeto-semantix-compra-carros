@@ -1,0 +1,91 @@
+{
+  "linhas": 1000,
+  "colunas": 5,
+  "nulos": 0,
+  "duplicados_completos": 0,
+  "ids_unicos": 1000,
+  "perfis_repetidos_sem_id": 57,
+  "perfis_X_teste_presentes_treino": 21,
+  "classes": {
+    "0": 598,
+    "1": 402
+  },
+  "treino": 800,
+  "teste": 200,
+  "teste_compradores": 80,
+  "sha256": "24db0b2bd9b47b15f55fb6ba0a4c59177f2ec9751eda24f3abfbbef4a012c244",
+  "modelo_indicado_cv": "XGBoost",
+  "matrizes_confusao": {
+    "Referência majoritária": [
+      [
+        120,
+        0
+      ],
+      [
+        80,
+        0
+      ]
+    ],
+    "SVM Linear": [
+      [
+        110,
+        10
+      ],
+      [
+        19,
+        61
+      ]
+    ],
+    "SVM Polinomial": [
+      [
+        114,
+        6
+      ],
+      [
+        19,
+        61
+      ]
+    ],
+    "XGBoost": [
+      [
+        112,
+        8
+      ],
+      [
+        8,
+        72
+      ]
+    ]
+  },
+  "resultados_historicos_m40": {
+    "SVM Linear": {
+      "Acurácia": 0.855,
+      "Precisão": 0.8592,
+      "Recall": 0.7625,
+      "F1": 0.8079,
+      "ROC_AUC": 0.9239
+    },
+    "SVM Polinomial": {
+      "Acurácia": 0.875,
+      "Precisão": 0.9104,
+      "Recall": 0.7625,
+      "F1": 0.8299,
+      "ROC_AUC": 0.931
+    },
+    "XGBoost": {
+      "Acurácia": 0.915,
+      "Precisão": 0.8889,
+      "Recall": 0.9,
+      "F1": 0.8944,
+      "ROC_AUC": 0.9666
+    }
+  },
+  "versoes": {
+    "python": "3.12.14",
+    "numpy": "2.2.6",
+    "pandas": "2.2.3",
+    "sklearn": "1.7.2",
+    "xgboost": "3.0.5",
+    "matplotlib": "3.10.7"
+  }
+}

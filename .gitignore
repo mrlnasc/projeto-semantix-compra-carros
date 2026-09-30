@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.mpl-cache/
+*.pyc
+.DS_Store
+data/raw/*.csv
+reports/previsoes_teste.csv
+reports/particoes.csv
